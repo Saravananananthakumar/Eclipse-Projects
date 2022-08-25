@@ -1,3 +1,3 @@
-VAR E=1;
+VAR E=2;
 VAR R=5;
 console.log(E+R);
